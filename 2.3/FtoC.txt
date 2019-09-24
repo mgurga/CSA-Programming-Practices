@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+class FtoC
+{
+    public static void main(String[] args)
+    {
+        Scanner scan = new Scanner(System.in);
+        double in1 = scan.nextDouble();
+        
+        System.out.println((in1 - 32) * 5/9);
+    }
+}
