@@ -9,7 +9,7 @@ class AvgOfThree
         int in2 = scan.nextInt();
         int in3 = scan.nextInt();
 
-        double avg = (in1 + in2 + in3) / 3;
+        double avg = ((double)in1 + (double)in2 + (double)in3) / 3;
         System.out.println(avg);
     }
 }
