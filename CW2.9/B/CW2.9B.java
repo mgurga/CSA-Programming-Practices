@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 import java.text.DecimalFormat; 
-public class CircleStats 
+ class CircleStats
 { 
 	public static void main (String[] args) 
 	{ 

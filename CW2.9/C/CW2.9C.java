@@ -1,6 +1,6 @@
 import java.util.Calendar; 
 import java.util.Locale; 
-public class usePrintF 
+ class usePrintF
 { 
 	public static void main(String[] args) 
 	{ 

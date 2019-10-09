@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 import java.text.NumberFormat; 
-public class Price 
+ class Price
 { 
 	public static void main (String[] args) 
 	{
