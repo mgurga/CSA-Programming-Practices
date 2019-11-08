@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class toKm
+ class toKm
 {
     public static void main(String[] args)
     {

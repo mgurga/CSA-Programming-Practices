@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sphereVolSA
+class sphereVolSA
 {
     public static void main(String[] args)
     {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class distanceBetweenPoints
+ class distanceBetweenPoints
 {
     public static void main(String[] args)
     {
@@ -21,7 +21,10 @@ public class distanceBetweenPoints
         
         String[] p1s = in1.split(",");
         String[] p2s = in2.split(",");
-        
+
+        //System.out.println(p1s[0]);
+        //System.out.println(p1s[1]);
+
         point1[0] = Integer.parseInt(p1s[0]);
         point1[1] = Integer.parseInt(p1s[1]);
         point2[0] = Integer.parseInt(p2s[0]);

@@ -1,4 +1,4 @@
-public class Initials 
+class Initials
 {
     public static void main(String[] args) 
     {
